@@ -15,10 +15,7 @@ students to both C and Python during their time here.
 
 The second goal is to start peeling away the layers of abstraction that students
 are used to from working with JavaScript and Python. Indeed, when you boil it
-all down, both JavaScript and Python are implemented in C in the first pl
-
-
-ace! C
+all down, both JavaScript and Python are implemented in C in the first place! C
 supports very few of the abstractions that students are used to, because C has
 you working directly with the memory on your machine. Higher level languages
 abstract this fact away from you, at the cost of raw performance and control.
